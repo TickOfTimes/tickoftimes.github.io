@@ -1,4 +1,5 @@
 # Tick Of Time Organization Official Hompage
+All The main rule start from here [Click Here](https://github.com/TickOfTimes/tickoftimes.github.io/blob/main/index.md#expected-behavior-of-all-community-member)
 ## Purpose Of This Organization
 A primary goal of Tick Of Times is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 ## Expected Behavior Of All Community Member
